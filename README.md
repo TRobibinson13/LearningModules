@@ -14,5 +14,6 @@
  - Tutorial video source:  https://www.youtube.com/watch?v=CjoAYslTKX0&t=539s
  - Helpful online JSON Editor/Validator:  https://jsoneditoronline.org/
  
- 
- 
+ ## Hacker Rank
+ - Solutions to the various hacker rank challenges I've started working through and their solutions
+
