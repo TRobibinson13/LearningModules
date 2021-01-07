@@ -16,4 +16,5 @@
  
  ## Hacker Rank
  - Solutions to the various hacker rank challenges I've started working through and their solutions
+ - Feel free to test your own skills at: https://www.hackerrank.com/
 
