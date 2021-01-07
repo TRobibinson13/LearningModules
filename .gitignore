@@ -1,6 +1,3 @@
-gradebook/test/
-gradebook/src/GradeBook/bin/
-gradebook/src/GradeBook/obj/
 .vscode/
 *.cache
 
