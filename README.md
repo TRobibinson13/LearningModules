@@ -1,16 +1,16 @@
 # LearningModules
  Folder that contains various learning modules worked on
 
-gradebook/
+## gradebook/
  Just a "hello world" to get introduced with initializing a C# app
  
- jsonparser
+ ## jsonparser
  - A tutorial for working with JSON Objects in C#
    - Helpful for learning:
      - Creation of classes
      - Working with and parsing complex JSON strings
-     - Class inheretence
-     - Intro to regions
+     - Class inheritance
+     - Basic intro to regions
  - Tutorial video source:  https://www.youtube.com/watch?v=CjoAYslTKX0&t=539s
  - Helpful online JSON Editor/Validator:  https://jsoneditoronline.org/
  
